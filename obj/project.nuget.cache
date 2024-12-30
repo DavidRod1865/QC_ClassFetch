@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bH2knyOCbCM=",
+  "success": true,
+  "projectFilePath": "/Users/davidrodriguez/Desktop/Projects/QC_ClassFetch/QC_ClassFetch/QC_ClassFetch.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidrodriguez/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/Users/davidrodriguez/.nuget/packages/selenium.support/4.27.0/selenium.support.4.27.0.nupkg.sha512",
+    "/Users/davidrodriguez/.nuget/packages/selenium.webdriver/4.27.0/selenium.webdriver.4.27.0.nupkg.sha512",
+    "/Users/davidrodriguez/.nuget/packages/selenium.webdriver.chromedriver/131.0.6778.20400/selenium.webdriver.chromedriver.131.0.6778.20400.nupkg.sha512"
+  ],
+  "logs": []
+}
