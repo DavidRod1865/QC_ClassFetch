@@ -122,8 +122,7 @@ Project Link: [https://github.com/DavidRod1865/QC_ClassFetch](https://github.com
   <img src="https://contrib.rocks/image?repo=DavidRod1865/QC_ClassFetch" alt="contrib.rocks image" />
 </a>
 
-
---
+---
 
 ## Acknowledgments
 
