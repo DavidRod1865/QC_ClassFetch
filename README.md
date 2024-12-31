@@ -59,7 +59,6 @@
 1. Run the application:
 
     ```bash
-    Copy code
     dotnet run
     ```
 
@@ -78,7 +77,6 @@
 
 ## Project Structure
 
-    ```bash
     QC-Class-Fetcher/
     ├── QC_ClassFetch/
     │   ├── Program.cs                 # Entry point of the application
@@ -87,7 +85,6 @@
     │   │   └── CheckInput.cs          # Validates user input
     ├── CourseSchedule.csv             # Example output file
     └── README.md                      # Project documentation
-    ```
 
 ---
 
@@ -124,6 +121,7 @@ Project Link: [https://github.com/DavidRod1865/QC_ClassFetch](https://github.com
 <a href="https://github.com/DavidRod1865/QC_ClassFetch/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=DavidRod1865/QC_ClassFetch" alt="contrib.rocks image" />
 </a>
+
 
 --
 
